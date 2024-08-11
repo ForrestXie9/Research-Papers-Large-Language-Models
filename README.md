@@ -26,7 +26,7 @@
 |LICO: Large Language Models for In-Context Molecular Optimization(2024-ARXIV)|[[Link](https://arxiv.org/abs/2406.18851)]|LLMs for molecular optimization|
 
 ## Survey related to LLMs
-| Paper                                                | Link                                                     |Concise description    |
+| Paper (Date of publication-Publisher)                                             | Link                                                     |Concise description    |
 |------------------------------------------------------|------------------------------------------------------------------|---------------------------------|
 |Evolutionary computation in the era of large language model: Survey and roadmap (2024-ARXIV) | [[Link](https://arxiv.org/abs/2401.10034)]|Survery
 |A comprehensive overview of large language models (2023-ARXIV) | [[Link](https://arxiv.org/abs/2307.06435)]|Survery

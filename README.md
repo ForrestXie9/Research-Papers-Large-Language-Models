@@ -7,7 +7,7 @@
 |  FunBO: Discovering Acquisition Functions for Bayesian Optimization with FunSearch (ARXIV)| [[Link](https://arxiv.org/pdf/2406.04824)]|LLM for the acquisition function of Bayesian optimization|
 |  Evolve Cost-aware Acquisition Functions Using Large Language Models (PPSN) | [[Link](https://arxiv.org/pdf/2404.16906)]|LLM for the acquisition function of Bayesian optimization|
 
-|  () | [[Link]()]|
+|Large Language Model-Enhanced Algorithm Selection: Towards Comprehensive Algorithm Representation (IJCAI)| [[Link](https://arxiv.org/html/2311.13184v2)]||LLM for algorithm selection|
 |  () | [[Link]()]|
 |  () | [[Link]()]|
 |  () | [[Link]()]|

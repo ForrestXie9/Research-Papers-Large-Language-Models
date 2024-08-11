@@ -12,9 +12,16 @@
 | Connecting Large Language Models with Evolutionary Algorithms Yields Powerful Prompt Optimizers (2023-ARXIV) | [[Link](https://arxiv.org/abs/2309.08532)]|LLMs as optimizers|
 | Large Language Models as Evolutionary Optimizers (2024-CEC) | [[Link](https://ieeexplore.ieee.org/abstract/document/10611913)]|LLMs as evolutionary optimizers|
 | Large language models as evolution strategies (2024-GECCO) | [[Link](https://dl.acm.org/doi/abs/10.1145/3638530.3654238)]|LLMs as evolutionary optimizers evolution strategies|
+| Towards optimizing with large language models (2023-ARXIV) | [[Link](https://arxiv.org/abs/2310.05204)]|The assessment of the optimization capabilities of LLMs|
+|Leveraging large language models for the generation of novel metaheuristic optimization algorithms (2023-GECCO)|[[Link](https://dl.acm.org/doi/abs/10.1145/3583133.3596401)]|LLMs for the generation of metaheuristic algorithms|
+|Large Language Model-Aided Evolutionary Search for Constrained Multiobjective Optimization (2023-GECCO)|[[Link](https://arxiv.org/pdf/2405.05767)]|LLMs for constrained multiobjective optimization|
+|Autonomous Multi-Objective Optimization Using Large Language Model (2024-ARXIV)|[[Link](https://arxiv.org/pdf/2406.08987)]|LLMs for multiobjective optimization|
+|Large Language Model for Multi-objective Evolutionary Optimization (2024-ARXIV)|[[Link](https://arxiv.org/pdf/2310.12541)]|LLMs for multiobjective optimization|
+
 ## Prompt optimization to enhance LLMs
 
 ## LLMs for real-world applications
+|LICO: Large Language Models for In-Context Molecular Optimization(2024-ARXIV)|[[Link](https://arxiv.org/abs/2406.18851)]|LLMs for molecular optimization|
 
 ## Survey related to LLMs
 | Paper                                                | Link                                                     |Concise description    |

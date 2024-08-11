@@ -18,6 +18,8 @@
 |Autonomous Multi-Objective Optimization Using Large Language Model (2024-ARXIV)|[[Link](https://arxiv.org/pdf/2406.08987)]|LLMs for multiobjective optimization|
 |Large Language Model for Multi-objective Evolutionary Optimization (2024-ARXIV)|[[Link](https://arxiv.org/pdf/2310.12541)]|LLMs for multiobjective optimization|
 |LLMatic: Neural Architecture Search via Large Language Models and Quality Diversity Optimization (2024-ARXIV)|[[Link](https://arxiv.org/pdf/2306.01102)]|LLMs for neural architecture search|
+|EvoPrompting: language models for code-level neural architecture search (2024-Neurips)|[[Link](https://proceedings.neurips.cc/paper_files/paper/2023/file/184c1e18d00d7752805324da48ad25be-Paper-Conference.pdf)]|LLMs for neural architecture search|
+
 ## Prompt optimization to enhance LLMs
 
 ## LLMs for real-world applications

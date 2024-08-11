@@ -23,7 +23,9 @@
 ## LLMs for real-world applications
 | Paper (Date of publication-Publisher)                                                | Link                                                     |Concise description    |
 |------------------------------------------------------|------------------------------------------------------------------|---------------------------------|
-|LICO: Large Language Models for In-Context Molecular Optimization(2024-ARXIV)|[[Link](https://arxiv.org/abs/2406.18851)]|LLMs for molecular optimization|
+|LICO: Large Language Models for In-Context Molecular Optimization (2024-ARXIV)|[[Link](https://arxiv.org/abs/2406.18851)]|LLMs for molecular optimization|
+|Large language models for supply chain optimization (2023-ARXIV)|[[Link](https://arxiv.org/abs/2307.03875)]|LLMs for supply chain optimization|
+|Codon Bert: large language models for mRNA design and optimization(2023-bioRXIV)|[[Link](https://www.biorxiv.org/content/10.1101/2023.09.09.556981v2.full.pdf)]|LLMs for mRNA design and optimization|
 
 ## Survey related to LLMs
 | Paper (Date of publication-Publisher)                                             | Link                                                     |Concise description    |

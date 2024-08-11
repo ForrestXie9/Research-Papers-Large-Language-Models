@@ -1,7 +1,7 @@
 ## Research-papers-on-large-language-models (LLMs)
 ## Automatic algorithm design
 | Paper                                                | Link                                                     |Description    |
-|------------------------------------------------------|------------------------------------------------------------------|------------------------|
+|------------------------------------------------------|------------------------------------------------------------------|---------------------------------|
 | Large language models to enhance bayesian optimization (ICLR) | [[Link](https://arxiv.org/pdf/2402.03921)]|LLM for end to end BO|
 | Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model (ICML) | [[Link](https://openreview.net/pdf?id=BwAkaxqiLB)]| |LLM for code generation|
 | FunBO: Discovering Acquisition Functions for Bayesian Optimization with FunSearch (ARXIV) | [[Link](https://arxiv.org/pdf/2406.04824)]||LLM for searching the acquisition function of Bayesian optimization|

@@ -21,6 +21,8 @@
 ## Prompt optimization to enhance LLMs
 
 ## LLMs for real-world applications
+| Paper (Date of publication-Publisher)                                                | Link                                                     |Concise description    |
+|------------------------------------------------------|------------------------------------------------------------------|---------------------------------|
 |LICO: Large Language Models for In-Context Molecular Optimization(2024-ARXIV)|[[Link](https://arxiv.org/abs/2406.18851)]|LLMs for molecular optimization|
 
 ## Survey related to LLMs

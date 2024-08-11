@@ -1,13 +1,13 @@
 ## Research-papers-on-large-language-models (LLMs)
 ## LLMs for optimization
-| Paper                                                | Link                                                     |Concise description    |
+| Paper (Date of publication-Publisher)                                                | Link                                                     |Concise description    |
 |------------------------------------------------------|------------------------------------------------------------------|---------------------------------|
-| Large language models to enhance bayesian optimization (ICLR) | [[Link](https://arxiv.org/pdf/2402.03921)]|LLM for end to end BO|
-| Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model (ICML) | [[Link](https://openreview.net/pdf?id=BwAkaxqiLB)]|LLM for the code generation of heuristic method|
-|  FunBO: Discovering Acquisition Functions for Bayesian Optimization with FunSearch (ARXIV)| [[Link](https://arxiv.org/pdf/2406.04824)]|LLM for the acquisition function of Bayesian optimization|
-|  Evolve Cost-aware Acquisition Functions Using Large Language Models (PPSN) | [[Link](https://arxiv.org/pdf/2404.16906)]|LLM for the acquisition function of Bayesian optimization|
-|Large Language Model-Enhanced Algorithm Selection: Towards Comprehensive Algorithm Representation (IJCAI)|[[Link](https://arxiv.org/html/2311.13184v2)]|LLM for algorithm selection|
-| Mathematical discoveries from program search with large language models (Nature) | [[Link](https://www.nature.com/articles/s41586-023-06924-6_reference.pdf)]|LLM for code generation (named FunSearch)|
+| Large language models to enhance bayesian optimization (2024-ICLR) | [[Link](https://arxiv.org/pdf/2402.03921)]|LLM for end to end BO|
+| Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model (2024-ICML) | [[Link](https://openreview.net/pdf?id=BwAkaxqiLB)]|LLM for the code generation of heuristic method|
+|  FunBO: Discovering Acquisition Functions for Bayesian Optimization with FunSearch (2024-ARXIV)| [[Link](https://arxiv.org/pdf/2406.04824)]|LLM for the acquisition function of Bayesian optimization|
+|  Evolve Cost-aware Acquisition Functions Using Large Language Models (2024-PPSN) | [[Link](https://arxiv.org/pdf/2404.16906)]|LLM for the acquisition function of Bayesian optimization|
+|Large Language Model-Enhanced Algorithm Selection: Towards Comprehensive Algorithm Representation (2024-IJCAI)|[[Link](https://arxiv.org/html/2311.13184v2)]|LLM for algorithm selection|
+| Mathematical discoveries from program search with large language models (2024-Nature) | [[Link](https://www.nature.com/articles/s41586-023-06924-6_reference.pdf)]|LLM for code generation (named FunSearch)|
 |Large Language Models as Optimizers (2023-ARXIV) | [[Link](https://arxiv.org/abs/2309.03409)]|LLMs as optimizers|
 | Connecting Large Language Models with Evolutionary Algorithms Yields Powerful Prompt Optimizers (2023-ARXIV) | [[Link](https://arxiv.org/abs/2309.08532)]|LLMs as optimizers|
 | Large Language Models as Evolutionary Optimizers (2024-CEC) | [[Link](https://ieeexplore.ieee.org/abstract/document/10611913)]|LLMs as evolutionary optimizers|

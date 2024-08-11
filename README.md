@@ -1,6 +1,6 @@
 ## Research-papers-on-large-language-models (LLMs)
 ## LLMs for optimization
-| Paper                                                | Link                                                     |Description    |
+| Paper                                                | Link                                                     |Concise description    |
 |------------------------------------------------------|------------------------------------------------------------------|---------------------------------|
 | Large language models to enhance bayesian optimization (ICLR) | [[Link](https://arxiv.org/pdf/2402.03921)]|LLM for end to end BO|
 | Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model (ICML) | [[Link](https://openreview.net/pdf?id=BwAkaxqiLB)]|LLM for the code generation of heuristic method|

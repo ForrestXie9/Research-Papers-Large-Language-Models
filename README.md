@@ -75,8 +75,7 @@
 |A survey on multimodal large language models for autonomous driving (2024-WACV)|[[Link](https://openaccess.thecvf.com/content/WACV2024W/LLVM-AD/papers/Cui_A_Survey_on_Multimodal_Large_Language_Models_for_Autonomous_Driving_WACVW_2024_paper.pdf)]|Survey
 |Large Language Models for Human-like Autonomous Driving: A Survey (2024-ARXIV)|[[Link](https://arxiv.org/pdf/2407.19280)]|LLMs for Autonomous Driving|
 |Vision language models in autonomous driving and intelligent transportation systems (2023-ARXIV)|[[Link](https://arxiv.org/pdf/2310.14414)]|LLMs for Autonomous Driving and ITS|
-|Unleashing the potential of prompt engineering in
-Large Language Models: a comprehensive review (2024-ARXIV)|[[Link](https://arxiv.org/pdf/2310.14735)]|Survey of Prompt Engineering in Survey|
+|Unleashing the potential of prompt engineering in Large Language Models: a comprehensive review (2024-ARXIV)|[[Link](https://arxiv.org/pdf/2310.14735)]|Survey of Prompt Engineering in Survey|
 |A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications (2024-ARXIV)|[[Link](https://arxiv.org/pdf/2402.07927)]|Survey of Prompt Engineering in Survey|
 
 

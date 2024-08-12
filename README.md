@@ -35,7 +35,8 @@
 |LICO: Large Language Models for In-Context Molecular Optimization (2024-ARXIV)|[[Link](https://arxiv.org/abs/2406.18851)]|LLMs for molecular optimization|
 |Large language models for supply chain optimization (2023-ARXIV)|[[Link](https://arxiv.org/abs/2307.03875)]|LLMs for supply chain optimization|
 |Codon Bert: large language models for mRNA design and optimization(2023-bioRXIV)|[[Link](https://www.biorxiv.org/content/10.1101/2023.09.09.556981v2.full.pdf)]|LLMs for mRNA design and optimization|
-
+|REvolve: Reward Evolution with Large Language Models for Autonomous Driving (2019-IJCAI)|[[Link](https://arxiv.org/abs/2406.01309)]|LLMs for Autonomous Driving|
+|Dilu: A knowledge-driven approach to autonomous driving with large language models (2024-ICLR)|[[Link](https://arxiv.org/abs/2309.16292)]|LLMs for Autonomous Driving|
 
 ## Survey related to LLMs
 | Paper (Date of publication-Publisher)                                             | Link                                                     |Concise description    |
@@ -43,3 +44,6 @@
 |Evolutionary computation in the era of large language model: Survey and roadmap (2024-ARXIV) | [[Link](https://arxiv.org/abs/2401.10034)]|Survery
 |A comprehensive overview of large language models (2023-ARXIV) | [[Link](https://arxiv.org/abs/2307.06435)]|Survery
 |Large language models: A survey (2023-ARXIV)|[[Link](https://arxiv.org/abs/2402.06196)]|Survery
+|A survey on multimodal large language models for autonomous driving|[[Link](https://openaccess.thecvf.com/content/WACV2024W/LLVM-AD/papers/Cui_A_Survey_on_Multimodal_Large_Language_Models_for_Autonomous_Driving_WACVW_2024_paper.pdf)]|Survery
+
+

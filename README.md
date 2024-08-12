@@ -21,7 +21,7 @@
 |EvoPrompting: language models for code-level neural architecture search (2024-Neurips)|[[Link](https://proceedings.neurips.cc/paper_files/paper/2023/file/184c1e18d00d7752805324da48ad25be-Paper-Conference.pdf)]|LLMs for neural architecture search|
 |Reward design with language models (2023-ICLR)|[[Link](https://arxiv.org/abs/2303.00001)]|LLMs for reward design in RL|
 |Eureka: Human-level reward design via coding large language models (2023-ICLR)|[[Link](https://arxiv.org/pdf/2310.12931)]|LLMs for reward design in RL|
-|Using Natural Language for Reward Shaping in Reinforcement Learning (2019-ARXIV)|[[Link]([https://arxiv.org/abs/1903.02020])]|LLMs for reward design in RL|
+|Using Natural Language for Reward Shaping in Reinforcement Learning (2019-ARXIV)|[[Link](https://arxiv.org/abs/1903.02020)]|LLMs for reward design in RL|
 |Using Large Language Models to Automate and Expedite Reinforcement Learning with Reward Machine (2024-ARXIV)|[[Link](https://arxiv.org/abs/2402.07069)]|LLMs to enhance RL|
 
 

@@ -39,7 +39,7 @@
 |Large language models are human-level prompt engineers (2023-ICLR)|[[Link](https://openreview.net/pdf?id=92gvk82DE-)]|Prompt generation for LLMs|
 |Progressive-hint prompting improves reasoning in large language models (2023-ARXIV)|[[Link](https://arxiv.org/pdf/2304.09797)]|Progressive-Hint Prompting for LLMs|
 |BatchPrompt: Accomplish more with less (2024-ICLR)|[[Link](https://arxiv.org/pdf/2309.00384)]|BatchPrompt for LLMs|
-|(2024-AAAI)|[[Link]( )]|LLMs for Autonomous Driving|
+|Instructzero: Efficient instruction optimization for black-box large language models (2024-ARXIV)|[[Link](https://arxiv.org/pdf/2306.03082)]|Promti optimization for LLMs|
 |(2024-AAAI)|[[Link]( )]|LLMs for Autonomous Driving|
 ## Fine-tuning of LLMs
 
@@ -77,7 +77,6 @@
 |Vision language models in autonomous driving and intelligent transportation systems (2023-ARXIV)|[[Link](https://arxiv.org/pdf/2310.14414)]|LLMs for Autonomous Driving and ITS|
 |Unleashing the potential of prompt engineering in
 Large Language Models: a comprehensive review (2024-ARXIV)|[[Link](https://arxiv.org/pdf/2310.14735)]|Survey of Prompt Engineering in Survey|
-|A Systematic Survey of Prompt Engineering in Large Language Models:
-Techniques and Applications (2024-ARXIV)|[[Link](https://arxiv.org/pdf/2402.07927)]|Survey of Prompt Engineering in Survey|
+|A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications (2024-ARXIV)|[[Link](https://arxiv.org/pdf/2402.07927)]|Survey of Prompt Engineering in Survey|
 
 

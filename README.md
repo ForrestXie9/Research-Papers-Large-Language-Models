@@ -44,6 +44,6 @@
 |Evolutionary computation in the era of large language model: Survey and roadmap (2024-ARXIV) | [[Link](https://arxiv.org/abs/2401.10034)]|Survery
 |A comprehensive overview of large language models (2023-ARXIV) | [[Link](https://arxiv.org/abs/2307.06435)]|Survery
 |Large language models: A survey (2023-ARXIV)|[[Link](https://arxiv.org/abs/2402.06196)]|Survery
-|A survey on multimodal large language models for autonomous driving|[[Link](https://openaccess.thecvf.com/content/WACV2024W/LLVM-AD/papers/Cui_A_Survey_on_Multimodal_Large_Language_Models_for_Autonomous_Driving_WACVW_2024_paper.pdf)]|Survery
+|A survey on multimodal large language models for autonomous driving (2024-WACV)|[[Link](https://openaccess.thecvf.com/content/WACV2024W/LLVM-AD/papers/Cui_A_Survey_on_Multimodal_Large_Language_Models_for_Autonomous_Driving_WACVW_2024_paper.pdf)]|Survery
 
 

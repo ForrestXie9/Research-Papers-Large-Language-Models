@@ -39,7 +39,7 @@
 |Large language models are human-level prompt engineers (2023-ICLR)|[[Link](https://openreview.net/pdf?id=92gvk82DE-)]|Prompt generation for LLMs|
 |Progressive-hint prompting improves reasoning in large language models (2023-ARXIV)|[[Link](https://arxiv.org/pdf/2304.09797)]|Progressive-Hint Prompting for LLMs|
 |BatchPrompt: Accomplish more with less (2024-ICLR)|[[Link](https://arxiv.org/pdf/2309.00384)]|BatchPrompt for LLMs|
-|Instructzero: Efficient instruction optimization for black-box large language models (2024-ARXIV)|[[Link](https://arxiv.org/pdf/2306.03082)]|Promti optimization for LLMs|
+|Instructzero: Efficient instruction optimization for black-box large language models (2024-ARXIV)|[[Link](https://arxiv.org/pdf/2306.03082)]|Prompting optimization for LLMs|
 |(2024-AAAI)|[[Link]( )]|LLMs for Autonomous Driving|
 ## Fine-tuning of LLMs
 

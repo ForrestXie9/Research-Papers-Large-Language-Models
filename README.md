@@ -40,8 +40,7 @@
 |Ask me anything: A simple strategy for prompting language models (2023-ICLR)|[[Link](https://openreview.net/pdf?id=bhUPJnS2g0X)]|Ask me anything prompting for LLMs|
 |Least-to-most prompting enables complex reasoning in large language models (2023-ICLR)|[[Link](https://www.researchgate.net/profile/Quoc-Le-7/publication/360804483_Least-to-Most_Prompting_Enables_Complex_Reasoning_in_Large_Language_Models/links/659ae6cd3c472d2e8ebd5e79/Least-to-Most-Prompting-Enables-Complex-Reasoning-in-Large-Language-Models.pdf)]|Least-To-Most Prompting for LLMs|
 |Iteratively Prompt Pre-trained Language Models for Chain of Thought (2022-ARXIV)|[[Link](https://arxiv.org/pdf/2203.08383)]|Iterative prompting for LLMs|
-|Synthetic Prompting: Generating Chain-of-Thought Demonstrations for Large
-Language Models (2023-ICML)|[[Link](https://proceedings.mlr.press/v202/shao23a/shao23a.pdf)]|Synthetic Prompting for LLMs|
+|Synthetic Prompting: Generating Chain-of-Thought Demonstrations for Large Language Models (2023-ICML)|[[Link](https://proceedings.mlr.press/v202/shao23a/shao23a.pdf)]|Synthetic Prompting for LLMs|
 |Pal: Program-aided language models (2023-ICML)|[[Link](https://proceedings.mlr.press/v202/gao23f/gao23f.pdf)]|LLMs for Autonomous Driving|
 |Meta-Prompting (2024-ARXIV)|[[Link](https://arxiv.org/pdf/2401.12954)]|Meta-Prompting for LLMs|
 |Tree of thoughts: Deliberate problem solving with large language models (2024-Neurips)|[[Link](https://proceedings.neurips.cc/paper_files/paper/2023/file/271db9922b8d1f4dd7aaef84ed5ac703-Paper-Conference.pdf )]|Tree of thoughts for LLMs|

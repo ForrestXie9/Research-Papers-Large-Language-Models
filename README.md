@@ -30,9 +30,20 @@
 ## Prompt optimization to enhance LLMs
 | Paper (Date of publication-Publisher)                                                | Link                                                     |Concise description    |
 |------------------------------------------------------|------------------------------------------------------------------|---------------------------------|
+|Large language models are zero-shot reasoners (2022-Neurips)|[[Link](https://proceedings.neurips.cc/paper_files/paper/2022/file/8bb0d291acd4acf06ef112099c16f326-Paper-Conference.pdf)]|Zero-Shot Prompting for LLMs|
 |Chain-of-thought prompting elicits reasoning in large language models (2024-Neurips)|[[Link](https://proceedings.neurips.cc/paper_files/paper/2022/file/9d5609613524ecf4f15af0f7b31abca4-Paper-Conference.pdf)]|Chain-of-Thought Prompting for LLMs|
 |Self-consistency improves chain of thought reasoning in language models (2023-ICLR)|[[Link](https://arxiv.org/pdf/2203.11171)]|Chain-of-Thought with Self-consistency Prompting for LLMs|
 |React: Synergizing reasoning and acting in language models (2023-ICLR)|[[Link](https://arxiv.org/pdf/2210.03629)]|React in LLMs|
+|Autoprompt: Eliciting knowledge from language models with automatically generated prompts (2020-ARXIV)|[[Link](https://arxiv.org/pdf/2010.15980)]|Autopromt with gradient-guided search for LLMs|
+|Generated knowledge prompting for commonsense reasoning (2024-ACL)|[[Link](https://aclanthology.org/2022.acl-long.225.pdf)]|Generated knowledge prompting for LLMs|
+|ART: Automatic multi-step reasoning and tool-use for large language models (2023-ARXIV)|[[Link](https://arxiv.org/pdf/2303.09014)]|Automatic reasoning and tool-use for LLMs|
+|Ask me anything: A simple strategy for prompting language models (2023-ICLR)|[[Link](https://openreview.net/pdf?id=bhUPJnS2g0X)]|Ask me anything prompting for LLMs|
+|Least-to-most prompting enables complex reasoning in large language models (2023-ICLR)|[[Link](https://www.researchgate.net/profile/Quoc-Le-7/publication/360804483_Least-to-Most_Prompting_Enables_Complex_Reasoning_in_Large_Language_Models/links/659ae6cd3c472d2e8ebd5e79/Least-to-Most-Prompting-Enables-Complex-Reasoning-in-Large-Language-Models.pdf)]|Least-To-Most Prompting for LLMs|
+|Iteratively Prompt Pre-trained Language Models for Chain of Thought (2022-ARXIV)|[[Link](https://arxiv.org/pdf/2203.08383)]|Iterative prompting for LLMs|
+|Synthetic Prompting: Generating Chain-of-Thought Demonstrations for Large
+Language Models (2023-ICML)|[[Link](https://proceedings.mlr.press/v202/shao23a/shao23a.pdf)]|Synthetic Prompting for LLMs|
+|Pal: Program-aided language models (2023-ICML)|[[Link](https://proceedings.mlr.press/v202/gao23f/gao23f.pdf)]|LLMs for Autonomous Driving|
+|Meta-Prompting (2024-ARXIV)|[[Link](https://arxiv.org/pdf/2401.12954)]|Meta-Prompting for LLMs|
 |Tree of thoughts: Deliberate problem solving with large language models (2024-Neurips)|[[Link](https://proceedings.neurips.cc/paper_files/paper/2023/file/271db9922b8d1f4dd7aaef84ed5ac703-Paper-Conference.pdf )]|Tree of thoughts for LLMs|
 |Graph of thoughts: Solving elaborate problems with large language models (2024-AAAI)|[[Link](https://ojs.aaai.org/index.php/AAAI/article/view/29720)]|Graph of Thoughts for LLMs|
 |Plum: Prompt learning using metaheuristic (2024-ARXIV)|[[Link](https://arxiv.org/pdf/2311.08364)]|Prompt learning using metaheuristic for LLMs|
@@ -40,7 +51,9 @@
 |Progressive-hint prompting improves reasoning in large language models (2023-ARXIV)|[[Link](https://arxiv.org/pdf/2304.09797)]|Progressive-Hint Prompting for LLMs|
 |BatchPrompt: Accomplish more with less (2024-ICLR)|[[Link](https://arxiv.org/pdf/2309.00384)]|BatchPrompt for LLMs|
 |Instructzero: Efficient instruction optimization for black-box large language models (2024-ARXIV)|[[Link](https://arxiv.org/pdf/2306.03082)]|Prompting optimization for LLMs|
-|(2024-AAAI)|[[Link]( )]|LLMs for Autonomous Driving|
+
+
+
 ## Fine-tuning of LLMs
 
 ## LLMs for real-world applications
@@ -65,6 +78,9 @@
 |TPLLM: A traffic prediction framework based on pretrained large language models (2024-ARXIV)|[[Link](https://arxiv.org/pdf/2403.02221)]|LLMs for Traffic Prediction|
 |Spatial-temporal large language model for traffic prediction (2024-ARXIV)|[[Link](https://arxiv.org/pdf/2401.10134)]|LLMs for Traffic Prediction|
 |Extracting accurate materials data from research papers with conversational language models and prompt engineering(2024-NC)|[[Link](https://www.nature.com/articles/s41467-024-45914-8)]|LLMs for Extracting Materials Data|
+
+
+
 
 ## Survey related to LLMs
 | Paper (Date of publication-Publisher)                                             | Link                                                     |Concise description    |

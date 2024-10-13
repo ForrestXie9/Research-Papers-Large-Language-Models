@@ -27,6 +27,7 @@ I am currently conducting research on the use of large language models (LLMs) fo
 |Eureka: Human-level Reward Design via Coding Large Language Models (2023-ICLR)|[[Link](https://arxiv.org/pdf/2310.12931)]|LLMs for Reward Design in RL|
 |Using Natural Language for Reward Shaping in Reinforcement Learning (2019-ARXIV)|[[Link](https://arxiv.org/abs/1903.02020)]|LLMs for Reward Design in RL|
 |Using Large Language Models to Automate and Expedite Reinforcement Learning with Reward Machine (2024-ARXIV)|[[Link](https://arxiv.org/abs/2402.07069)]|LLMs to Enhance RL|
+|Language to Rewards for Robotic Skill Synthesis (2024-ARXIV)|[[Link](https://arxiv.org/pdf/2306.08647)]|LLMs for Reward Design in RL|
 |OptiMUS: Scalable Optimization Modeling with (MI)LP Solvers and Large Language Models (2024-ARXIV)|[[Link](https://arxiv.org/pdf/2402.10172)]|LLMs for (MI)LP Optimization|
 |Chain-of-Experts: When LLMs Meet Complex Operations Research Problems (2024-ICLR)|[[Link](https://openreview.net/pdf?id=HobyL1B9CZ)]|LLMs for Operations Research Problems|
 

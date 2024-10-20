@@ -30,6 +30,8 @@ I am currently conducting research on the use of large language models (LLMs) fo
 |Language to Rewards for Robotic Skill Synthesis (2024-ARXIV)|[[Link](https://arxiv.org/pdf/2306.08647)]|LLMs for Reward Design in RL|
 |OptiMUS: Scalable Optimization Modeling with (MI)LP Solvers and Large Language Models (2024-ARXIV)|[[Link](https://arxiv.org/pdf/2402.10172)]|LLMs for (MI)LP Optimization|
 |Chain-of-Experts: When LLMs Meet Complex Operations Research Problems (2024-ICLR)|[[Link](https://openreview.net/pdf?id=HobyL1B9CZ)]|LLMs for Operations Research Problems|
+|ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution  (2024-NIPS)|[[Link](https://arxiv.org/pdf/2402.01145)]|LLMs for Combinatorial Optimization Problems|
+
 
 ## Prompt optimization to enhance LLMs
 | Paper (Date of publication-Publisher)                                                | Link                                                     |Concise description    |

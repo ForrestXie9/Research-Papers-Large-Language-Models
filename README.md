@@ -31,6 +31,7 @@ I am currently conducting research on the use of large language models (LLMs) fo
 |OptiMUS: Scalable Optimization Modeling with (MI)LP Solvers and Large Language Models (2024-ARXIV)|[[Link](https://arxiv.org/pdf/2402.10172)]|LLMs for (MI)LP Optimization|
 |Chain-of-Experts: When LLMs Meet Complex Operations Research Problems (2024-ICLR)|[[Link](https://openreview.net/pdf?id=HobyL1B9CZ)]|LLMs for Operations Research Problems|
 |ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution  (2024-NIPS)|[[Link](https://arxiv.org/pdf/2402.01145)]|LLMs for Combinatorial Optimization Problems|
+|LLM and Simulation as Bilevel Optimizers: A New Paradigm to Advance Physical Scientific Discovery (2024-ICML)|[[Link](https://arxiv.org/pdf/2405.09783)]|LLM for Physical Scientific Discovery|
 
 
 ## Prompt optimization to enhance LLMs
@@ -56,6 +57,8 @@ I am currently conducting research on the use of large language models (LLMs) fo
 |Progressive-hint Prompting Improves Reasoning in Large Language Models (2023-ARXIV)|[[Link](https://arxiv.org/pdf/2304.09797)]|Progressive-Hint Prompting for LLMs|
 |BatchPrompt: Accomplish More with Less (2024-ICLR)|[[Link](https://arxiv.org/pdf/2309.00384)]|BatchPrompt for LLMs|
 |Instructzero: Efficient Instruction Optimization for Black-Box Large Language Models (2024-ARXIV)|[[Link](https://arxiv.org/pdf/2306.03082)]|Prompting optimization for LLMs|
+
+
 
 
 

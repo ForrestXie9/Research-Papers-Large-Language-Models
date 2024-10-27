@@ -89,6 +89,9 @@ I am currently conducting research on the use of large language models (LLMs) fo
 |Spatial-Temporal Large Language Model for Traffic Prediction (2024-ARXIV)|[[Link](https://arxiv.org/pdf/2401.10134)]|LLMs for Traffic Prediction|
 |Extracting Accurate Materials Data from Research Papers with Conversational Language Models and Prompt Engineering(2024-NC)|[[Link](https://www.nature.com/articles/s41467-024-45914-8)]|LLMs for Extracting Materials Data|
 |Spatial-Temporal Large Language Model for Traffic Prediction (2024-ICLR)|[[Link](https://arxiv.org/pdf/2401.10134)]|LLMs for Traffic Prediction| 
+|Do As I Can, Not As I Say: Grounding Language in Robotic Affordances (2023-ARXIV)|[[Link](https://arxiv.org/pdf/2204.01691)]|LLMs for Robotic Tasks| 
+
+
 
 
 

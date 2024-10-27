@@ -33,6 +33,9 @@ I am currently conducting research on the use of large language models (LLMs) fo
 |ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution  (2024-NIPS)|[[Link](https://arxiv.org/pdf/2402.01145)]|LLMs for Combinatorial Optimization Problems|
 |LLM and Simulation as Bilevel Optimizers: A New Paradigm to Advance Physical Scientific Discovery (2024-ICML)|[[Link](https://arxiv.org/pdf/2405.09783)]|LLM for Physical Scientific Discovery|
 |Position: What Can Large Language Models Tell Us about Time Series Analysis (2024-ICML)|[[Link](https://arxiv.org/pdf/2405.09783)]|LLM for Time Series Analysis|
+|Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents (2022-ICML)|[[Link](https://proceedings.mlr.press/v162/huang22a/huang22a.pdf)]|Language Models as Zero-Shot Planners|
+
+
 
 
 

@@ -62,6 +62,7 @@ I am currently conducting research on the use of large language models (LLMs) fo
 |Progressive-hint Prompting Improves Reasoning in Large Language Models (2023-ARXIV)|[[Link](https://arxiv.org/pdf/2304.09797)]|Progressive-Hint Prompting for LLMs|
 |BatchPrompt: Accomplish More with Less (2024-ICLR)|[[Link](https://arxiv.org/pdf/2309.00384)]|BatchPrompt for LLMs|
 |Instructzero: Efficient Instruction Optimization for Black-Box Large Language Models (2024-ARXIV)|[[Link](https://arxiv.org/pdf/2306.03082)]|Prompting optimization for LLMs|
+|MORL-Prompt: An Empirical Analysis of Multi-Objective Reinforcement Learning for Discrete Prompt Optimization (2024-ARXIV)|[[Link](https://arxiv.org/pdf/2402.11711)]|Muti-objective Prompting optimization for LLMs|
 
 
 

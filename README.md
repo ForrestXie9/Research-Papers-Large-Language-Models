@@ -34,7 +34,7 @@ I am currently conducting research on the use of large language models (LLMs) fo
 |LLM and Simulation as Bilevel Optimizers: A New Paradigm to Advance Physical Scientific Discovery (2024-ICML)|[[Link](https://arxiv.org/pdf/2405.09783)]|LLM for Physical Scientific Discovery|
 |Position: What Can Large Language Models Tell Us about Time Series Analysis (2024-ICML)|[[Link](https://arxiv.org/pdf/2405.09783)]|LLM for Time Series Analysis|
 |Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents (2022-ICML)|[[Link](https://proceedings.mlr.press/v162/huang22a/huang22a.pdf)]|Language Models as Zero-Shot Planners|
-|Towards foundation models for mixed integer linear programing (2025-ICLR)|[[Link](https://arxiv.org/pdf/2410.08288)]|Language Models for mixed integer linear programing|
+|Towards Foundation Models for Mixed Integer Linear Programming (2025-ICLR)|[[Link](https://arxiv.org/pdf/2410.08288)]|Language Models for Mixed Integer Linear Programming|
 
 
 

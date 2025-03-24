@@ -117,6 +117,7 @@ I am currently conducting research on the use of large language models (LLMs) fo
 |A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications (2024-ARXIV)|[[Link](https://arxiv.org/pdf/2402.07927)]|Survey of Prompt Engineering in Survey|
 |A Survey of Graph Meets Large Language Model: Progress and Future Directions (2024-ARXIV)|[[Link](https://arxiv.org/pdf/2311.12399)]|A Survey of Graph Meets Large Language Model|
 |Rethinking Machine Unlearning for Large Language Models (2024-Nature Machine Intelligence)|[[Link](https://www.nature.com/articles/s42256-025-00985-0)]|A Survey of Large Language Model|
+|LLM4SR: A Survey on Large Language Models for Scientific Research (2025-ARXIV)|[[Link](https://arxiv.org/pdf/2501.04306)]|Large Language Models for Scientific Research|
 
 
 

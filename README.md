@@ -1,5 +1,5 @@
 ## Research Papers on Large Language Models (LLMs)
-I am currently conducting research on the use of large language models (LLMs) for optimization. Below is a collection of noteworthy research papers on LLMs, covering topics such as LLMs for optimization, prompt optimization to enhance LLMs, and LLMs for real-world applications. If you have any questions or ideas, please feel free to contact me via email at xld666333@gmail.com.
+I am currently conducting research on the use of large language models (LLMs) for optimization. Below is a collection of noteworthy research papers on LLMs, covering topics such as LLMs for optimization, prompt optimization to enhance LLMs, and LLMs for real-world applications. If you have any questions or ideas, please feel free to contact me via email at lindong.xie@connect.polyu.hk or xld666333@gmail.com.
 
 
 ## LLMs for optimization
@@ -36,6 +36,7 @@ I am currently conducting research on the use of large language models (LLMs) fo
 |Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents (2022-ICML)|[[Link](https://proceedings.mlr.press/v162/huang22a/huang22a.pdf)]|Language Models as Zero-Shot Planners|
 |Towards Foundation Models for Mixed Integer Linear Programming (2025-ICLR)|[[Link](https://arxiv.org/pdf/2410.08288)]|Language Models for Mixed Integer Linear Programming|
 |From Understanding to Excelling: Template-Free Algorithm Design through Structural-Functional Co-Evolution (2025-ARXIV)|[[Link](https://arxiv.org/pdf/2503.10721)]|Language Models for Algorithm Design|
+|Large Language Models for Automated Data Science: Introducing CAAFE for Context-Aware Automated Feature Engineering (2023-NIPS)|[[Link](https://proceedings.neurips.cc/paper_files/paper/2023/file/8c2df4c35cdbee764ebb9e9d0acd5197-Paper-Conference.pdf)]|Language Models for for Automated Data Science|
 
 
 

@@ -36,7 +36,8 @@ I am currently conducting research on the use of large language models (LLMs) fo
 |Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents (2022-ICML)|[[Link](https://proceedings.mlr.press/v162/huang22a/huang22a.pdf)]|Language Models as Zero-Shot Planners|
 |Towards Foundation Models for Mixed Integer Linear Programming (2025-ICLR)|[[Link](https://arxiv.org/pdf/2410.08288)]|Language Models for Mixed Integer Linear Programming|
 |From Understanding to Excelling: Template-Free Algorithm Design through Structural-Functional Co-Evolution (2025-ARXIV)|[[Link](https://arxiv.org/pdf/2503.10721)]|Language Models for Algorithm Design|
-|Large Language Models for Automated Data Science: Introducing CAAFE for Context-Aware Automated Feature Engineering (2023-NIPS)|[[Link](https://proceedings.neurips.cc/paper_files/paper/2023/file/8c2df4c35cdbee764ebb9e9d0acd5197-Paper-Conference.pdf)]|Language Models for for Automated Data Science|
+|Large Language Models for Automated Data Science: Introducing CAAFE for Context-Aware Automated Feature Engineering (2023-NIPS)|[[Link](https://proceedings.neurips.cc/paper_files/paper/2023/file/8c2df4c35cdbee764ebb9e9d0acd5197-Paper-Conference.pdf)]|Language Models for Automated Data Science|
+|Scalable In-Context Learning on Tabular Data via Retrieval-Augmented Large Language Models (2025-arxiv)|[[Link](https://arxiv.org/pdf/2502.03147)]|Language Models for Data Science|
 
 
 

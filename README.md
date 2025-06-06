@@ -125,6 +125,7 @@ I am currently conducting research on the use of large language models (LLMs) fo
 |Rethinking Machine Unlearning for Large Language Models (2024-Nature Machine Intelligence)|[[Link](https://www.nature.com/articles/s42256-025-00985-0)]|A Survey of Large Language Models |
 |LLM4SR: A Survey on Large Language Models for Scientific Research (2025-ARXIV)|[[Link](https://arxiv.org/pdf/2501.04306)]|Large Language Models for Scientific Research|
 |Large Language Models for Mobility Analysis in Transportation Systems: A Survey on Forecasting Tasks (2025-ARXIV)|[[Link](https://arxiv.org/pdf/2405.02357)]|Large Language Models for Mobility Analysis|
+|A Survey of Large Language Models for Traffic Forecasting: Methods and Applications (2025-ARXIV)|[[Link](https://d197for5662m48.cloudfront.net/documents/publicationstatus/254488/preprint_pdf/7c826dd76754cf6a6d045e6c7453c9f2.pdf)]|Large Language Models for Traffic Forecasting|
 
 
 

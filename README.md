@@ -109,8 +109,7 @@ I am currently conducting research on the use of large language models (LLMs) fo
 |Do As I Can, Not As I Say: Grounding Language in Robotic Affordances (2023-ARXIV)|[[Link](https://arxiv.org/pdf/2204.01691)]|LLMs for Robotic Tasks| 
 |The Crossroads of LLM and Traffic Control: A Study on Large Language Models in Adaptive Traffic Signal Control (2024-TITS)|[[Link](https://ieeexplore.ieee.org/abstract/document/10768207?casa_token=_GUy9Lur5_AAAAAA:FRZzc-Cd9FR8vohmMKCyy3UKX5nCwfDdp2X7_pg3KgmYyXL_DNP8S_y82aDs7ZSBC5Y3SyXe)]|LLMs for Traffic Control| 
 |MM-Agent: LLM as Agents for Real-world Mathematical Modeling Problem (2025-ARXIV)|[[Link](https://arxiv.org/pdf/2505.14148)]|LLMs for Mathematical Modeling Problem| 
-
-
+|Where Would I Go Next? Large Language Models as Human Mobility Predictors (2025-ARXIV)|[[Link](https://arxiv.org/pdf/2308.15197)]|LLMs for Human Mobility Prediction| 
 
 
 

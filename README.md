@@ -71,6 +71,13 @@ I am currently conducting research on the use of large language models (LLMs) fo
 
 
 
+## Retrieval-Augmented Generation for LLMs
+| Paper (Date of publication-Publisher)                                                | Link                                                     |Concise description    |
+|------------------------------------------------------|------------------------------------------------------------------|---------------------------------|
+|KG-IRAG: A knowledge graph-based iterative retrieval-augmented generation framework for temporal reasoning (2025-ARXIV)|[[Link](https://arxiv.org/abs/2503.14234)]|Retrieval-Augmented Generation|
+
+
+
 
 
 
